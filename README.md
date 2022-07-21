@@ -5,3 +5,4 @@
 作者：CPS
 QQ：370304454
 技术交流群：826903952
+![image](https://github.com/cps0211/CPScoreXY/blob/main/image/CPScoreXY.jpg)
